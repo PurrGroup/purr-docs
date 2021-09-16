@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center">📄 documentation of purr blog system</p>
+> 📄 documentation of purr blog system
 
 # 项目简介
 
@@ -26,12 +26,16 @@ Purr`[/pər/]`，是一款简约、现代化、可高度DIY的个人独立博客
 
 # 目录树
 
-> .
-> ├── LICENSE  开源协议
-> ├── README.md  你现在正在阅读的
-> ├── dev  开发相关文档
-> ├── images  本仓库所用图片
-> └── report  课程报告仓库
+```
+.
+├── LICENSE  开源协议
+├── README.md  你现在正在阅读的
+├── dev  开发相关文档
+├── images  本仓库所用图片
+└── report  课程报告仓库
+```
+
+
 
 
 
