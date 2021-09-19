@@ -2,9 +2,9 @@
 
 9.13-9.19 任务：
 
-- [ ] 项目需求分析
-- [ ] 项目需求文档
-- [ ] 项目UI设计手稿
+- [x] 项目需求分析
+- [x] 项目需求文档
+- [x] 项目UI设计手稿
 
 
 
@@ -14,3 +14,4 @@
 
 [2021/9/16UI设计手稿](https://a2jz95flwh.feishu.cn/docs/doccnIbIl7vhAZ7iXrJR1XWgA7e?from=from_copylink)
 
+[需求规格说明书v1.0](https://a2jz95flwh.feishu.cn/docs/doccnLQDNe6B9kVRwRuLqriY08g?from=from_copylink)
