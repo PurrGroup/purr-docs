@@ -14,4 +14,4 @@
 
 [2021/9/16UI设计手稿](https://a2jz95flwh.feishu.cn/docs/doccnIbIl7vhAZ7iXrJR1XWgA7e?from=from_copylink)
 
-[需求规格说明书v1.0](https://a2jz95flwh.feishu.cn/docs/doccnLQDNe6B9kVRwRuLqriY08g?from=from_copylink)
+[需求规格说明书v1.1](https://a2jz95flwh.feishu.cn/docs/doccnLQDNe6B9kVRwRuLqriY08g#UzAWjz)
