@@ -21,7 +21,7 @@
 - [x] 完善需求文档
 - [x] 完成基本的概要设计与详细设计文档
 
-9.20-9.26成果
+9.20-9.29成果
 
 [需求规格说明书v1.1](https://a2jz95flwh.feishu.cn/docs/doccnLQDNe6B9kVRwRuLqriY08g#UzAWjz)
 
